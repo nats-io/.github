@@ -11,7 +11,8 @@ NATS is a CNCF incubating project, donated by and primarily developed by
 
 -----
 
-> [!NOTE] .NET ecosystem repositories shuffled/renamed 2024-07-17
+> [!NOTE]
+> .NET ecosystem repositories shuffled/renamed 2024-07-17
 >
 > The repository formerly known as `nats.net` was renamed to be
 > [nats.net.v1](https://github.com/nats-io/nats.net.v1); at the same time,
